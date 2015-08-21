@@ -4,7 +4,7 @@ Myo MATLAB Data Streaming Interface. Version 1 (August 15, 2015)
 Tested on Window 7, Windows 8
 MATLAB 2013a, Python 2.7.9, myo-sdk-win-0.9.0 
 
-The Myo MATLAB data streaming interface relies on real time data read from the text files updated by Python. Python is used to communicate with Myo Connect/Myo. 
+The Myo MATLAB data streaming interface relies on real time data read from the text files updated by Python. Python is used to communicate with Myo Connect/Myo. Special thanks to NiklasRosenstein and the contributors to the Python interface (https://github.com/NiklasRosenstein/myo-python).
 
 1.	Download Python 2.7.9 (Other version of Python have not been tested for the interface).
 2.	Make sure to check include Python in your path during the installation.
